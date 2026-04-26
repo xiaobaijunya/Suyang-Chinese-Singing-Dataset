@@ -1,0 +1,1207 @@
+N	N
+EP	EP
+AP	AP
+SP	SP
+mo	m o
+bo	b o
+fo	f o
+po	p o
+you	y iu
+a	a
+ai	ai
+an	an
+ang	ang
+ao	ao
+ba	b a
+bai	b ai
+ban	b an
+bang	b ang
+bao	b ao
+be	b e
+bei	b ei
+ben	b en
+beng	b eng
+ber	b er
+bi	b i
+bia	b ia
+bian	b ian
+biang	b iang
+biao	b iao
+bie	b ie
+bin	b in
+bing	b ing
+biong	b iong
+biu	b iu
+bong	b ong
+bou	b ou
+bu	b u
+bua	b ua
+buai	b uai
+buan	b uan
+buang	b uang
+bui	b ui
+bun	b un
+bv	b v
+bve	b ve
+ca	c a
+cai	c ai
+can	c an
+cang	c ang
+cao	c ao
+ce	c e
+cei	c ei
+cen	c en
+ceng	c eng
+cer	c er
+cha	ch a
+chai	ch ai
+chan	ch an
+chang	ch ang
+chao	ch ao
+che	ch e
+chei	ch ei
+chen	ch en
+cheng	ch eng
+cher	ch er
+chi	ch ir
+chong	ch ong
+chou	ch ou
+chu	ch u
+chua	ch ua
+chuai	ch uai
+chuan	ch uan
+chuang	ch uang
+chui	ch ui
+chun	ch un
+chuo	ch uo
+chv	ch v
+chyi	ch i
+ci	c i0
+cong	c ong
+cou	c ou
+cu	c u
+cua	c ua
+cuai	c uai
+cuan	c uan
+cuang	c uang
+cui	c ui
+cun	c un
+cuo	c uo
+cv	c v
+cyi	c i
+da	d a
+dai	d ai
+dan	d an
+dang	d ang
+dao	d ao
+de	d e
+dei	d ei
+den	d en
+deng	d eng
+der	d er
+di	d i
+dia	d ia
+dian	d ian
+diang	d iang
+diao	d iao
+die	d ie
+din	d in
+ding	d ing
+diong	d iong
+diu	d iu
+dong	d ong
+dou	d ou
+du	d u
+dua	d ua
+duai	d uai
+duan	d uan
+duang	d uang
+dui	d ui
+dun	d un
+duo	d uo
+dv	d v
+dve	d ve
+e	e
+ei	ei
+en	en
+eng	eng
+er	er
+fa	f a
+fai	f ai
+fan	f an
+fang	f ang
+fao	f ao
+fe	f e
+fei	f ei
+fen	f en
+feng	f eng
+fer	f er
+fi	f i
+fia	f ia
+fian	f ian
+fiang	f iang
+fiao	f iao
+fie	f ie
+fin	f in
+fing	f ing
+fiong	f iong
+fiu	f iu
+fong	f ong
+fou	f ou
+fu	f u
+fua	f ua
+fuai	f uai
+fuan	f uan
+fuang	f uang
+fui	f ui
+fun	f un
+fv	f v
+fve	f ve
+ga	g a
+gai	g ai
+gan	g an
+gang	g ang
+gao	g ao
+ge	g e
+gei	g ei
+gen	g en
+geng	g eng
+ger	g er
+gi	g i
+gia	g ia
+gian	g ian
+giang	g iang
+giao	g iao
+gie	g ie
+gin	g in
+ging	g ing
+giong	g iong
+giu	g iu
+gong	g ong
+gou	g ou
+gu	g u
+gua	g ua
+guai	g uai
+guan	g uan
+guang	g uang
+gui	g ui
+gun	g un
+guo	g uo
+gv	g v
+gve	g ve
+ha	h a
+hai	h ai
+han	h an
+hang	h ang
+hao	h ao
+he	h e
+hei	h ei
+hen	h en
+heng	h eng
+her	h er
+hi	h i
+hia	h ia
+hian	h ian
+hiang	h iang
+hiao	h iao
+hie	h ie
+hin	h in
+hing	h ing
+hiong	h iong
+hiu	h iu
+hong	h ong
+hou	h ou
+hu	h u
+hua	h ua
+huai	h uai
+huan	h uan
+huang	h uang
+hui	h ui
+hun	h un
+huo	h uo
+hv	h v
+hve	h ve
+ji	j i
+jia	j ia
+jian	j ian
+jiang	j iang
+jiao	j iao
+jie	j ie
+jin	j in
+jing	j ing
+jiong	j iong
+jiu	j iu
+ju	j v
+juan	j van
+jue	j ve
+jun	j vn
+ka	k a
+kai	k ai
+kan	k an
+kang	k ang
+kao	k ao
+ke	k e
+kei	k ei
+ken	k en
+keng	k eng
+ker	k er
+ki	k i
+kia	k ia
+kian	k ian
+kiang	k iang
+kiao	k iao
+kie	k ie
+kin	k in
+king	k ing
+kiong	k iong
+kiu	k iu
+kong	k ong
+kou	k ou
+ku	k u
+kua	k ua
+kuai	k uai
+kuan	k uan
+kuang	k uang
+kui	k ui
+kun	k un
+kuo	k uo
+kv	k v
+kve	k ve
+la	l a
+lai	l ai
+lan	l an
+lang	l ang
+lao	l ao
+le	l e
+lei	l ei
+len	l en
+leng	l eng
+ler	l er
+li	l i
+lia	l ia
+lian	l ian
+liang	l iang
+liao	l iao
+lie	l ie
+lin	l in
+ling	l ing
+liong	l iong
+liu	l iu
+lo	l o
+long	l ong
+lou	l ou
+lu	l u
+lua	l ua
+luai	l uai
+luan	l uan
+luang	l uang
+lui	l ui
+lun	l un
+luo	l uo
+lv	l v
+lve	l ve
+ma	m a
+mai	m ai
+man	m an
+mang	m ang
+mao	m ao
+me	m e
+mei	m ei
+men	m en
+meng	m eng
+mer	m er
+mi	m i
+mia	m ia
+mian	m ian
+miang	m iang
+miao	m iao
+mie	m ie
+min	m in
+ming	m ing
+miong	m iong
+miu	m iu
+mong	m ong
+mou	m ou
+mu	m u
+mua	m ua
+muai	m uai
+muan	m uan
+muang	m uang
+mui	m ui
+mun	m un
+mv	m v
+mve	m ve
+na	n a
+nai	n ai
+nan	n an
+nang	n ang
+nao	n ao
+ne	n e
+nei	n ei
+nen	n en
+neng	n eng
+ner	n er
+ni	n i
+nia	n ia
+nian	n ian
+niang	n iang
+niao	n iao
+nie	n ie
+nin	n in
+ning	n ing
+niong	n iong
+niu	n iu
+nong	n ong
+nou	n ou
+nu	n u
+nua	n ua
+nuai	n uai
+nuan	n uan
+nuang	n uang
+nui	n ui
+nun	n un
+nuo	n uo
+nv	n v
+nve	n ve
+o	o
+ong	ong
+ou	ou
+pa	p a
+pai	p ai
+pan	p an
+pang	p ang
+pao	p ao
+pe	p e
+pei	p ei
+pen	p en
+peng	p eng
+per	p er
+pi	p i
+pia	p ia
+pian	p ian
+piang	p iang
+piao	p iao
+pie	p ie
+pin	p in
+ping	p ing
+piong	p iong
+piu	p iu
+pong	p ong
+pou	p ou
+pu	p u
+pua	p ua
+puai	p uai
+puan	p uan
+puang	p uang
+pui	p ui
+pun	p un
+pv	p v
+pve	p ve
+qi	q i
+qia	q ia
+qian	q ian
+qiang	q iang
+qiao	q iao
+qie	q ie
+qin	q in
+qing	q ing
+qiong	q iong
+qiu	q iu
+qu	q v
+quan	q van
+que	q ve
+qun	q vn
+ra	r a
+rai	r ai
+ran	r an
+rang	r ang
+rao	r ao
+re	r e
+rei	r ei
+ren	r en
+reng	r eng
+rer	r er
+ri	r ir
+rong	r ong
+rou	r ou
+ru	r u
+rua	r ua
+ruai	r uai
+ruan	r uan
+ruang	r uang
+rui	r ui
+run	r un
+ruo	r uo
+rv	r v
+ryi	r i
+sa	s a
+sai	s ai
+san	s an
+sang	s ang
+sao	s ao
+se	s e
+sei	s ei
+sen	s en
+seng	s eng
+ser	s er
+sha	sh a
+shai	sh ai
+shan	sh an
+shang	sh ang
+shao	sh ao
+she	sh e
+shei	sh ei
+shen	sh en
+sheng	sh eng
+sher	sh er
+shi	sh ir
+shong	sh ong
+shou	sh ou
+shu	sh u
+shua	sh ua
+shuai	sh uai
+shuan	sh uan
+shuang	sh uang
+shui	sh ui
+shun	sh un
+shuo	sh uo
+shv	sh v
+shyi	sh i
+si	s i0
+song	s ong
+sou	s ou
+su	s u
+sua	s ua
+suai	s uai
+suan	s uan
+suang	s uang
+sui	s ui
+sun	s un
+suo	s uo
+sv	s v
+syi	s i
+ta	t a
+tai	t ai
+tan	t an
+tang	t ang
+tao	t ao
+te	t e
+tei	t ei
+ten	t en
+teng	t eng
+ter	t er
+ti	t i
+tia	t ia
+tian	t ian
+tiang	t iang
+tiao	t iao
+tie	t ie
+tin	t in
+ting	t ing
+tiong	t iong
+tong	t ong
+tou	t ou
+tu	t u
+tua	t ua
+tuai	t uai
+tuan	t uan
+tuang	t uang
+tui	t ui
+tun	t un
+tuo	t uo
+tv	t v
+tve	t ve
+wa	w ua
+wai	w uai
+wan	w uan
+wang	w uang
+wao	w ao
+we	w e
+wei	w ui
+wen	w un
+weng	w ueng
+wer	w er
+wi	w i
+wo	w uo
+wong	w ong
+wou	w ou
+wu	w u
+wyu	w v
+xi	x i
+xia	x ia
+xian	x ian
+xiang	x iang
+xiao	x iao
+xie	x ie
+xin	x in
+xing	x ing
+xiong	x iong
+xiu	x iu
+xu	x v
+xuan	x van
+xue	x ve
+xun	x vn
+ya	y ia
+yai	y ai
+yan	y ian
+yang	y iang
+yao	y iao
+ye	y ie
+yei	y ei
+yi	y i
+yin	y in
+ying	y ing
+yong	y iong
+yu	y0 v
+yuan	y0 van
+yue	y0 ve
+yun	y0 vn
+ywu	y u
+za	z a
+zai	z ai
+zan	z an
+zang	z ang
+zao	z ao
+ze	z e
+zei	z ei
+zen	z en
+zeng	z eng
+zer	z er
+zha	zh a
+zhai	zh ai
+zhan	zh an
+zhang	zh ang
+zhao	zh ao
+zhe	zh e
+zhei	zh ei
+zhen	zh en
+zheng	zh eng
+zher	zh er
+zhi	zh ir
+zhong	zh ong
+zhou	zh ou
+zhu	zh u
+zhua	zh ua
+zhuai	zh uai
+zhuan	zh uan
+zhuang	zh uang
+zhui	zh ui
+zhun	zh un
+zhuo	zh uo
+zhv	zh v
+zhyi	zh i
+zi	z i0
+zong	z ong
+zou	z ou
+zu	z u
+zua	z ua
+zuai	z uai
+zuan	z uan
+zuang	z uang
+zui	z ui
+zun	z un
+zuo	z uo
+zv	z v
+zyi	z i
+i'	CL i
+mo'	CL m o
+bo'	CL b o
+fo'	CL f o
+po'	CL p o
+you'	CL y iu
+a'	CL a
+ai'	CL ai
+an'	CL an
+ang'	CL ang
+ao'	CL ao
+ba'	CL b a
+bai'	CL b ai
+ban'	CL b an
+bang'	CL b ang
+bao'	CL b ao
+be'	CL b e
+bei'	CL b ei
+ben'	CL b en
+beng'	CL b eng
+ber'	CL b er
+bi'	CL b i
+bia'	CL b ia
+bian'	CL b ian
+biang'	CL b iang
+biao'	CL b iao
+bie'	CL b ie
+bin'	CL b in
+bing'	CL b ing
+biong'	CL b iong
+biu'	CL b iu
+bong'	CL b ong
+bou'	CL b ou
+bu'	CL b u
+bua'	CL b ua
+buai'	CL b uai
+buan'	CL b uan
+buang'	CL b uang
+bui'	CL b ui
+bun'	CL b un
+bv'	CL b v
+bve'	CL b ve
+ca'	CL c a
+cai'	CL c ai
+can'	CL c an
+cang'	CL c ang
+cao'	CL c ao
+ce'	CL c e
+cei'	CL c ei
+cen'	CL c en
+ceng'	CL c eng
+cer'	CL c er
+cha'	CL ch a
+chai'	CL ch ai
+chan'	CL ch an
+chang'	CL ch ang
+chao'	CL ch ao
+che'	CL ch e
+chei'	CL ch ei
+chen'	CL ch en
+cheng'	CL ch eng
+cher'	CL ch er
+chi'	CL ch ir
+chong'	CL ch ong
+chou'	CL ch ou
+chu'	CL ch u
+chua'	CL ch ua
+chuai'	CL ch uai
+chuan'	CL ch uan
+chuang'	CL ch uang
+chui'	CL ch ui
+chun'	CL ch un
+chuo'	CL ch uo
+chv'	CL ch v
+chyi'	CL ch i
+ci'	CL c i0
+cong'	CL c ong
+cou'	CL c ou
+cu'	CL c u
+cua'	CL c ua
+cuai'	CL c uai
+cuan'	CL c uan
+cuang'	CL c uang
+cui'	CL c ui
+cun'	CL c un
+cuo'	CL c uo
+cv'	CL c v
+cyi'	CL c i
+da'	CL d a
+dai'	CL d ai
+dan'	CL d an
+dang'	CL d ang
+dao'	CL d ao
+de'	CL d e
+dei'	CL d ei
+den'	CL d en
+deng'	CL d eng
+der'	CL d er
+di'	CL d i
+dia'	CL d ia
+dian'	CL d ian
+diang'	CL d iang
+diao'	CL d iao
+die'	CL d ie
+din'	CL d in
+ding'	CL d ing
+diong'	CL d iong
+diu'	CL d iu
+dong'	CL d ong
+dou'	CL d ou
+du'	CL d u
+dua'	CL d ua
+duai'	CL d uai
+duan'	CL d uan
+duang'	CL d uang
+dui'	CL d ui
+dun'	CL d un
+duo'	CL d uo
+dv'	CL d v
+dve'	CL d ve
+e'	CL e
+ei'	CL ei
+en'	CL en
+eng'	CL eng
+er'	CL er
+fa'	CL f a
+fai'	CL f ai
+fan'	CL f an
+fang'	CL f ang
+fao'	CL f ao
+fe'	CL f e
+fei'	CL f ei
+fen'	CL f en
+feng'	CL f eng
+fer'	CL f er
+fi'	CL f i
+fia'	CL f ia
+fian'	CL f ian
+fiang'	CL f iang
+fiao'	CL f iao
+fie'	CL f ie
+fin'	CL f in
+fing'	CL f ing
+fiong'	CL f iong
+fiu'	CL f iu
+fong'	CL f ong
+fou'	CL f ou
+fu'	CL f u
+fua'	CL f ua
+fuai'	CL f uai
+fuan'	CL f uan
+fuang'	CL f uang
+fui'	CL f ui
+fun'	CL f un
+fv'	CL f v
+fve'	CL f ve
+ga'	CL g a
+gai'	CL g ai
+gan'	CL g an
+gang'	CL g ang
+gao'	CL g ao
+ge'	CL g e
+gei'	CL g ei
+gen'	CL g en
+geng'	CL g eng
+ger'	CL g er
+gi'	CL g i
+gia'	CL g ia
+gian'	CL g ian
+giang'	CL g iang
+giao'	CL g iao
+gie'	CL g ie
+gin'	CL g in
+ging'	CL g ing
+giong'	CL g iong
+giu'	CL g iu
+gong'	CL g ong
+gou'	CL g ou
+gu'	CL g u
+gua'	CL g ua
+guai'	CL g uai
+guan'	CL g uan
+guang'	CL g uang
+gui'	CL g ui
+gun'	CL g un
+guo'	CL g uo
+gv'	CL g v
+gve'	CL g ve
+ha'	CL h a
+hai'	CL h ai
+han'	CL h an
+hang'	CL h ang
+hao'	CL h ao
+he'	CL h e
+hei'	CL h ei
+hen'	CL h en
+heng'	CL h eng
+her'	CL h er
+hi'	CL h i
+hia'	CL h ia
+hian'	CL h ian
+hiang'	CL h iang
+hiao'	CL h iao
+hie'	CL h ie
+hin'	CL h in
+hing'	CL h ing
+hiong'	CL h iong
+hiu'	CL h iu
+hong'	CL h ong
+hou'	CL h ou
+hu'	CL h u
+hua'	CL h ua
+huai'	CL h uai
+huan'	CL h uan
+huang'	CL h uang
+hui'	CL h ui
+hun'	CL h un
+huo'	CL h uo
+hv'	CL h v
+hve'	CL h ve
+ji'	CL j i
+jia'	CL j ia
+jian'	CL j ian
+jiang'	CL j iang
+jiao'	CL j iao
+jie'	CL j ie
+jin'	CL j in
+jing'	CL j ing
+jiong'	CL j iong
+jiu'	CL j iu
+ju'	CL j v
+juan'	CL j van
+jue'	CL j ve
+jun'	CL j vn
+ka'	CL k a
+kai'	CL k ai
+kan'	CL k an
+kang'	CL k ang
+kao'	CL k ao
+ke'	CL k e
+kei'	CL k ei
+ken'	CL k en
+keng'	CL k eng
+ker'	CL k er
+ki'	CL k i
+kia'	CL k ia
+kian'	CL k ian
+kiang'	CL k iang
+kiao'	CL k iao
+kie'	CL k ie
+kin'	CL k in
+king'	CL k ing
+kiong'	CL k iong
+kiu'	CL k iu
+kong'	CL k ong
+kou'	CL k ou
+ku'	CL k u
+kua'	CL k ua
+kuai'	CL k uai
+kuan'	CL k uan
+kuang'	CL k uang
+kui'	CL k ui
+kun'	CL k un
+kuo'	CL k uo
+kv'	CL k v
+kve'	CL k ve
+la'	CL l a
+lai'	CL l ai
+lan'	CL l an
+lang'	CL l ang
+lao'	CL l ao
+le'	CL l e
+lei'	CL l ei
+len'	CL l en
+leng'	CL l eng
+ler'	CL l er
+li'	CL l i
+lia'	CL l ia
+lian'	CL l ian
+liang'	CL l iang
+liao'	CL l iao
+lie'	CL l ie
+lin'	CL l in
+ling'	CL l ing
+liong'	CL l iong
+liu'	CL l iu
+lo'	CL l o
+long'	CL l ong
+lou'	CL l ou
+lu'	CL l u
+lua'	CL l ua
+luai'	CL l uai
+luan'	CL l uan
+luang'	CL l uang
+lui'	CL l ui
+lun'	CL l un
+luo'	CL l uo
+lv'	CL l v
+lve'	CL l ve
+ma'	CL m a
+mai'	CL m ai
+man'	CL m an
+mang'	CL m ang
+mao'	CL m ao
+me'	CL m e
+mei'	CL m ei
+men'	CL m en
+meng'	CL m eng
+mer'	CL m er
+mi'	CL m i
+mia'	CL m ia
+mian'	CL m ian
+miang'	CL m iang
+miao'	CL m iao
+mie'	CL m ie
+min'	CL m in
+ming'	CL m ing
+miong'	CL m iong
+miu'	CL m iu
+mong'	CL m ong
+mou'	CL m ou
+mu'	CL m u
+mua'	CL m ua
+muai'	CL m uai
+muan'	CL m uan
+muang'	CL m uang
+mui'	CL m ui
+mun'	CL m un
+mv'	CL m v
+mve'	CL m ve
+na'	CL n a
+nai'	CL n ai
+nan'	CL n an
+nang'	CL n ang
+nao'	CL n ao
+ne'	CL n e
+nei'	CL n ei
+nen'	CL n en
+neng'	CL n eng
+ner'	CL n er
+ni'	CL n i
+nia'	CL n ia
+nian'	CL n ian
+niang'	CL n iang
+niao'	CL n iao
+nie'	CL n ie
+nin'	CL n in
+ning'	CL n ing
+niong'	CL n iong
+niu'	CL n iu
+nong'	CL n ong
+nou'	CL n ou
+nu'	CL n u
+nua'	CL n ua
+nuai'	CL n uai
+nuan'	CL n uan
+nuang'	CL n uang
+nui'	CL n ui
+nun'	CL n un
+nuo'	CL n uo
+nv'	CL n v
+nve'	CL n ve
+o'	CL o
+ong'	CL ong
+ou'	CL ou
+pa'	CL p a
+pai'	CL p ai
+pan'	CL p an
+pang'	CL p ang
+pao'	CL p ao
+pe'	CL p e
+pei'	CL p ei
+pen'	CL p en
+peng'	CL p eng
+per'	CL p er
+pi'	CL p i
+pia'	CL p ia
+pian'	CL p ian
+piang'	CL p iang
+piao'	CL p iao
+pie'	CL p ie
+pin'	CL p in
+ping'	CL p ing
+piong'	CL p iong
+piu'	CL p iu
+pong'	CL p ong
+pou'	CL p ou
+pu'	CL p u
+pua'	CL p ua
+puai'	CL p uai
+puan'	CL p uan
+puang'	CL p uang
+pui'	CL p ui
+pun'	CL p un
+pv'	CL p v
+pve'	CL p ve
+qi'	CL q i
+qia'	CL q ia
+qian'	CL q ian
+qiang'	CL q iang
+qiao'	CL q iao
+qie'	CL q ie
+qin'	CL q in
+qing'	CL q ing
+qiong'	CL q iong
+qiu'	CL q iu
+qu'	CL q v
+quan'	CL q van
+que'	CL q ve
+qun'	CL q vn
+ra'	CL r a
+rai'	CL r ai
+ran'	CL r an
+rang'	CL r ang
+rao'	CL r ao
+re'	CL r e
+rei'	CL r ei
+ren'	CL r en
+reng'	CL r eng
+rer'	CL r er
+ri'	CL r ir
+rong'	CL r ong
+rou'	CL r ou
+ru'	CL r u
+rua'	CL r ua
+ruai'	CL r uai
+ruan'	CL r uan
+ruang'	CL r uang
+rui'	CL r ui
+run'	CL r un
+ruo'	CL r uo
+rv'	CL r v
+ryi'	CL r i
+sa'	CL s a
+sai'	CL s ai
+san'	CL s an
+sang'	CL s ang
+sao'	CL s ao
+se'	CL s e
+sei'	CL s ei
+sen'	CL s en
+seng'	CL s eng
+ser'	CL s er
+sha'	CL sh a
+shai'	CL sh ai
+shan'	CL sh an
+shang'	CL sh ang
+shao'	CL sh ao
+she'	CL sh e
+shei'	CL sh ei
+shen'	CL sh en
+sheng'	CL sh eng
+sher'	CL sh er
+shi'	CL sh ir
+shong'	CL sh ong
+shou'	CL sh ou
+shu'	CL sh u
+shua'	CL sh ua
+shuai'	CL sh uai
+shuan'	CL sh uan
+shuang'	CL sh uang
+shui'	CL sh ui
+shun'	CL sh un
+shuo'	CL sh uo
+shv'	CL sh v
+shyi'	CL sh i
+si'	CL s i0
+song'	CL s ong
+sou'	CL s ou
+su'	CL s u
+sua'	CL s ua
+suai'	CL s uai
+suan'	CL s uan
+suang'	CL s uang
+sui'	CL s ui
+sun'	CL s un
+suo'	CL s uo
+sv'	CL s v
+syi'	CL s i
+ta'	CL t a
+tai'	CL t ai
+tan'	CL t an
+tang'	CL t ang
+tao'	CL t ao
+te'	CL t e
+tei'	CL t ei
+ten'	CL t en
+teng'	CL t eng
+ter'	CL t er
+ti'	CL t i
+tia'	CL t ia
+tian'	CL t ian
+tiang'	CL t iang
+tiao'	CL t iao
+tie'	CL t ie
+tin'	CL t in
+ting'	CL t ing
+tiong'	CL t iong
+tong'	CL t ong
+tou'	CL t ou
+tu'	CL t u
+tua'	CL t ua
+tuai'	CL t uai
+tuan'	CL t uan
+tuang'	CL t uang
+tui'	CL t ui
+tun'	CL t un
+tuo'	CL t uo
+tv'	CL t v
+tve'	CL t ve
+wa'	CL w ua
+wai'	CL w uai
+wan'	CL w uan
+wang'	CL w uang
+wao'	CL w ao
+we'	CL w e
+wei'	CL w ui
+wen'	CL w un
+weng'	CL w ueng
+wer'	CL w er
+wi'	CL w i
+wo'	CL w uo
+wong'	CL w ong
+wou'	CL w ou
+wu'	CL w u
+wyu'	CL w v
+xi'	CL x i
+xia'	CL x ia
+xian'	CL x ian
+xiang'	CL x iang
+xiao'	CL x iao
+xie'	CL x ie
+xin'	CL x in
+xing'	CL x ing
+xiong'	CL x iong
+xiu'	CL x iu
+xu'	CL x v
+xuan'	CL x van
+xue'	CL x ve
+xun'	CL x vn
+ya'	CL y ia
+yai'	CL y ai
+yan'	CL y ian
+yang'	CL y iang
+yao'	CL y iao
+ye'	CL y ie
+yei'	CL y ei
+yi'	CL y i
+yin'	CL y in
+ying'	CL y ing
+yong'	CL y iong
+yu'	CL y0 v
+yuan'	CL y0 van
+yue'	CL y0 ve
+yun'	CL y0 vn
+ywu'	CL y u
+za'	CL z a
+zai'	CL z ai
+zan'	CL z an
+zang'	CL z ang
+zao'	CL z ao
+ze'	CL z e
+zei'	CL z ei
+zen'	CL z en
+zeng'	CL z eng
+zer'	CL z er
+zha'	CL zh a
+zhai'	CL zh ai
+zhan'	CL zh an
+zhang'	CL zh ang
+zhao'	CL zh ao
+zhe'	CL zh e
+zhei'	CL zh ei
+zhen'	CL zh en
+zheng'	CL zh eng
+zher'	CL zh er
+zhi'	CL zh ir
+zhong'	CL zh ong
+zhou'	CL zh ou
+zhu'	CL zh u
+zhua'	CL zh ua
+zhuai'	CL zh uai
+zhuan'	CL zh uan
+zhuang'	CL zh uang
+zhui'	CL zh ui
+zhun'	CL zh un
+zhuo'	CL zh uo
+zhv'	CL zh v
+zhyi'	CL zh i
+zi'	CL z i0
+zong'	CL z ong
+zou'	CL z ou
+zu'	CL z u
+zua'	CL z ua
+zuai'	CL z uai
+zuan'	CL z uan
+zuang'	CL z uang
+zui'	CL z ui
+zun'	CL z un
+zuo'	CL z uo
+zv'	CL z v
+zyi'	CL z i
