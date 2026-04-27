@@ -28,8 +28,7 @@
 
 ### diffsinger-36000step： 
 
-![output]([https://private-user-images.githubusercontent.com/12345678/xxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.mp4](https://github.com/xiaobaijunya/Suyang-Chinese-Singing-Dataset/blob/master/img/%E5%B0%8F%E5%8D%8A-ds36000step.mp4
-))
+![output]([[[https://private-user-images.githubusercontent.com/12345678/xxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.mp4](https://github.com/xiaobaijunya/Suyang-Chinese-Singing-Dataset/blob/master/img/%E5%B0%8F%E5%8D%8A-ds36000step.mp4)]])
 
 ## 特别声明|Special Statement：
 
