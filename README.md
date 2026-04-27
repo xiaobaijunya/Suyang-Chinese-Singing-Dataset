@@ -26,8 +26,13 @@
 
 <img src="img\pitch_distribution.jpg" alt="pitch_distribution" style="zoom: 25%;" />
 
+### diffsinger-36000step：
+
+<video src="img\小半-ds36000step.mp4" controls=""></video>
+
 ## 特别声明|Special Statement：
-1. #### 不可商用，仅供学习研究（Non-commercial use, only for learning and research）
+
+1. #### 不可商用，仅供学习研究（Non-commercial use, only for le arning and research）
 
 2. #### 如果使用请署名（Please credit if used）：溯阳（Suyang）
 
