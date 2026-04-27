@@ -26,9 +26,9 @@
 
 <img src="img\pitch_distribution.jpg" alt="pitch_distribution" style="zoom: 25%;" />
 
-### diffsinger-36000step：
+### diffsinger-36000step： 
 
-<video src="img/小半-ds36000step.mp4" controls></video>
+<audio src="img\小半-ds36000step.mp3"></audio>
 
 ## 特别声明|Special Statement：
 
