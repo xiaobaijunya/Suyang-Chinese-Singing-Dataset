@@ -28,7 +28,7 @@
 
 ### diffsinger-36000step：
 
-<video src="img\小半-ds36000step.mp4" controls=""></video>
+<video src="img/小半-ds36000step.mp4" controls></video>
 
 ## 特别声明|Special Statement：
 
