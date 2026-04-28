@@ -12,12 +12,8 @@
 
 - recordings-v1:
   - 30分钟（30 minutes）18首歌曲（18 songs）
-  - 音频格式|audio format：ogg
-  - 采样年龄|sampling age：24
 - recordings-v2:
   - 15（15 minutes）5首歌曲（5 songs）
-  - 音频格式|audio format：ogg
-  - 采样年龄|sampling age：24
 
 ## 采样音素分布|Phoneme Distribution：
 <img src="img\phoneme_distribution_from_tg.jpg" alt="phoneme_distribution_from_tg"  />
